@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "joi": "^17.8.3",
+    "nodemon": "^2.0.21"
+  },
+  "name": "fifa",
+  "version": "1.0.0",
+  "main": "fifa.js",
+  "scripts": {
+    "dev": "nodemon fifa.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
